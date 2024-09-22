@@ -1,5 +1,4 @@
 local Popup = require('nui.popup')
-local h = require('utils.api')
 
 local popup = Popup({
   position = '50%',
